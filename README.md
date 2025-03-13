@@ -45,5 +45,3 @@ Use `skip-pip` in place of `pip`. Here are a few examples:
   ```
 
   The `--` separator indicates that the following options should be forwarded to pip.
-
-```
